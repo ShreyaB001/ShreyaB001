@@ -1,20 +1,27 @@
-👋 Hi, I’m Shreya Banerjee
-welcome to my GitHub profile! I’m thrilled to have you here.
-🎓 About Me
- I recently completed my Master of Computer Applications (MCA) in 2024, and I’m passionate about diving into the world of software development and innovation.
+# 👋 Hi, I'm Shareya Banerjee 
+---
+Welcome to my GitHub profile! I'm a passionate software developer with a Master’s in Computer Applications (MCA) completed in 2024.
 
-💻 My expertise includes:
+## 🚀 About Me
+---
+I'm an enthusiastic coder who loves working on innovative projects. With a background in computer science and hands-on experience in various technologies, I enjoy turning ideas into reality and solving complex problems. 
 
-Programming Languages: Python
-Web Development: HTML, CSS
-Database Management: SQL
-
-📫 Connect With Me
-Feel free to reach out to me at shreyabanerjee29170@gmail.com or connect with me on https://www.linkedin.com/in/shreya-banerjee-26598a1b5/
-
+### 🔧 Skills
+---
+- **Programming Languages:** Python
+- **Web Development:** HTML, CSS
+- **Database Management:** SQL
 
 
-<!---
-ShreyaB001/ShreyaB001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Connect with Me
+---
+- **Email:** [shreyabanerjee29170@gmail.com](mailto:shreyabanerjee29170@gmail.com)
+- **LinkedIn:** [Shreya Banerjee](https://www.linkedin.com/in/shreya-banerjee-26598a1b5/)
+
+
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or chat about technology!
+
+---
+
+*Thanks for visiting my profile! 🚀*
