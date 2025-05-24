@@ -9,7 +9,7 @@ I'm an enthusiastic coder who loves working on innovative projects. With a backg
 ### 🔧 Skills
 ---
 - **Programming Languages:** Python
-- **Web Development:** HTML, CSS
+- **Web Development:** HTML, CSS , JS
 - **Database Management:** SQL
 
 
